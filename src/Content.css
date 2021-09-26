@@ -1,0 +1,35 @@
+.blue-button {
+  background-color: rgb(96, 196, 230);
+  color: white;
+  text-align: center;
+  padding: 12px 24px;
+  display: inline-block;
+  outline: none;
+  border: 1px solid white;
+  font-size: 15px;
+  border-radius: 6px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.blue-button:hover {
+  background-color: rgb(22, 124, 158);
+}
+
+.yellow-button {
+  background-color: rgb(231, 184, 29);
+  color: black;
+  text-align: center;
+  padding: 12px 24px;
+  display: inline-block;
+  outline: none;
+  border: 1px solid white;
+  font-size: 15px;
+  border-radius: 6px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.yellow-button:hover {
+  background-color: rgb(241, 219, 15);
+}
